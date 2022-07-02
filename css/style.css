@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 h1 {
@@ -32,7 +33,7 @@ h1 {
 }
 
 .beef_block span {
-    background-color: firebrick;
+    background-color: indianred;
     color: #fff;
 }
 
