@@ -1,0 +1,26 @@
+.navbar {
+    background: lightgray;
+}
+
+[class*="col-"] {
+    background: lightgray;
+    border: solid 20px #fff;
+}
+
+.navbar-brand {
+    font-size: 26px;
+    font-weight: 600;
+}
+
+#nav_list {
+    text-align: center;
+}
+
+
+
+@media screen and (min-width: 576px) {
+    .navbar button {
+        display: none;
+    }
+}
+
